@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SoapTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb97c5a8-1435-4599-bdcd-78b01fafa014</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4e83f609-0c3b-4256-afc9-ed26f2d055a4</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>593d8b64-ab19-4a59-ade4-19ec5f98ae04</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>79ee5e43-0509-41f4-aa3c-db4fad48b96c</id>
+      <masked>false</masked>
+      <name>variable_1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7de1ccd5-db80-49a9-a555-990945366c55</id>
+      <masked>false</masked>
+      <name>variable_2</name>
+   </variable>
+</TestCaseEntity>

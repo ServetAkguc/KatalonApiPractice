@@ -31,3 +31,5 @@ response1 = WS.sendRequest(findTestObject('Day6/LIstUsers'))
 //
 //println("\n ... Global Variable username "+ GlobalVariable.USERNAME)
 
+println ("\n .... Value extracted is : ")
+
